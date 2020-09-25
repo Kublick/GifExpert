@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas <GriddItem /> debe de mostra el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="El Titulo"
+    src="https://localhost/algo.jpg"
+  />
+  <p>
+    El Titulo
+     
+  </p>
+</div>
+`;
